@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#ececec"/>
+  <rect x="72" y="90" width="450" height="450" rx="20" fill="#fff"/>
+  <g fill="#111">
+    <circle cx="168" cy="186" r="28"/>
+    <circle cx="426" cy="186" r="28"/>
+    <circle cx="168" cy="444" r="28"/>
+    <circle cx="168" cy="186" r="14" fill="#fff"/>
+    <circle cx="426" cy="186" r="14" fill="#fff"/>
+    <circle cx="168" cy="444" r="14" fill="#fff"/>
+    <circle cx="168" cy="186" r="8"/>
+    <circle cx="426" cy="186" r="8"/>
+    <circle cx="168" cy="444" r="8"/>
+    <circle cx="240" cy="250" r="10"/>
+    <circle cx="276" cy="250" r="10"/>
+    <circle cx="348" cy="250" r="10"/>
+    <circle cx="240" cy="286" r="10"/>
+    <circle cx="312" cy="286" r="10"/>
+    <circle cx="384" cy="286" r="10"/>
+    <circle cx="276" cy="322" r="10"/>
+    <circle cx="312" cy="322" r="10"/>
+    <circle cx="348" cy="322" r="10"/>
+    <circle cx="240" cy="358" r="10"/>
+    <circle cx="384" cy="358" r="10"/>
+    <circle cx="276" cy="394" r="10"/>
+    <circle cx="348" cy="394" r="10"/>
+    <circle cx="384" cy="394" r="10"/>
+    <circle cx="312" cy="430" r="10"/>
+    <circle cx="384" cy="430" r="10"/>
+    <circle cx="426" cy="322" r="10"/>
+    <circle cx="426" cy="394" r="10"/>
+  </g>
+  <text x="572" y="250" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" fill="#111">Free QR Code Generator</text>
+  <text x="572" y="310" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#444">Custom heart, star &amp; color QR codes</text>
+  <text x="572" y="360" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#666">PNG · JPG · WebP · SVG · No signup · No watermark</text>
+</svg>
