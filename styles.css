@@ -543,6 +543,22 @@ select {
   color: #222;
 }
 
+.site-footer .credit {
+  margin-top: 18px;
+  font-size: 13px;
+  color: #666;
+}
+
+.site-footer .credit a {
+  font-weight: 700;
+  color: #111;
+  text-decoration: none;
+}
+
+.site-footer .credit a:hover {
+  text-decoration: underline;
+}
+
 @media (max-width: 860px) {
   .app {
     flex-direction: column;
